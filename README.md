@@ -1,51 +1,80 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rohit0707/rohit0707/main/Developer.gif" width="200" />
-</p>
+<!-- Animated, Single-File GitHub Profile README for Shashank Yaplar -->
 
-<h1 align="center">Hey, I'm SHASHANK.G.YAPLAR 👨‍💻</h1>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/06/f0/17/06f017378e8b768663e8c6fc9b6aa9f5.gif" width="300" alt="Boy Coding Animation"/>
 
-<p align="center">
-  <i>"I don’t chase perfection. I chase progress — line by line, file by file."</i><br>
-  <b>Frontend Dev | Java Coder | Flutter Enthusiast</b>
-</p>
+  <h1 align="center">Hey, I'm Shashank Yaplar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <p><strong>A passionate Java & Flutter Developer 🚀</strong></p>
 
----
+  <!-- Dark Mode Toggle -->
+  <label>
+    <input type="checkbox" id="themeToggle"/>
+    <span>Toggle Theme</span>
+  </label>
 
-### 🚀 Tech Stack & Tools
+  <br><br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Crafting+cool+Java+%26+Flutter+projects!;Leveling+up+skills+every+day!;Open+to+internship+opportunities!"/>
 
----
+  <br><br>
 
-### 🔥 Current Focus
+  <!-- 🚀 Tech Stack -->
+  <h2>🚀 Tech Stack & Tools</h2>
+  <p>
+    <img src="https://img.shields.io/badge/Java-FC7300?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  </p>
 
-- Polishing real-world **Java projects**
-- Building UI-rich **Flutter apps** 🚀
-- Exploring **JavaScript DOM & mini projects**
-- Strengthening DSA & problem-solving skills 💡
+  <br>
 
----
+  <!-- 🔥 Current Focus -->
+  <h2>🔥 Current Focus</h2>
+  <ul align="left">
+    <li>Polishing real-world <strong>Java projects</strong></li>
+    <li>Building UI-rich <strong>Flutter apps 🚀</strong></li>
+    <li>Exploring <strong>JavaScript DOM</strong> & mini projects</li>
+    <li>Strengthening <strong>DSA & problem-solving skills 💡</strong></li>
+  </ul>
 
-### 📫 Contact Me
+  <br>
 
-<p align="center">
-  <a href="mailto:shashank.g.yaplar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/LinkedIn-Coming_Soon-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</p>
+  <!-- 📬 Contact -->
+  <h2>📬 Contact Me</h2>
+  <p>
+    <a href="mailto:shashank.g.yaplar@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a>
+      <img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+  </p>
+</div>
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+World!;Happy+to+share+my+journey+🚀" alt="Typing SVG" />
-</p>
+<!-- Optional CSS for theme toggle (basic effect) -->
+<style>
+  :root {
+    --bg: #0d1117;
+    --text: #e6edf3;
+  }
+  html, body {
+    background-color: var(--bg);
+    color: var(--text);
+    font-family: 'Segoe UI', sans-serif;
+    transition: background 0.3s, color 0.3s;
+  }
+  #themeToggle {
+    transform: scale(1.2);
+    margin-top: 10px;
+  }
+  #themeToggle:checked ~ * {
+    --bg: #ffffff;
+    --text: #000000;
+  }
+</style>
