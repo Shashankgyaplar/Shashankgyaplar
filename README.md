@@ -1,4 +1,4 @@
-      ![Uploading main.gif…]()
+
 <!-- Animated, Single-File GitHub Profile README for Shashank Yaplar -->
 
 <div align="center">
@@ -56,23 +56,4 @@
 </div>
 
 <!-- Optional CSS for theme toggle (basic effect) -->
-<style>
-  :root {
-    --bg: #0d1117;
-    --text: #e6edf3;
-  }
-  html, body {
-    background-color: var(--bg);
-    color: var(--text);
-    font-family: 'Segoe UI', sans-serif;
-    transition: background 0.3s, color 0.3s;
-  }
-  #themeToggle {
-    transform: scale(1.2);
-    margin-top: 10px;
-  }
-  #themeToggle:checked ~ * {
-    --bg: #ffffff;
-    --text: #000000;
-  }
-</style>
+
