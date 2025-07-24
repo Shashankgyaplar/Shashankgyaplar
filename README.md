@@ -4,8 +4,9 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/06/f0/17/06f017378e8b768663e8c6fc9b6aa9f5.gif" width="300" alt="Boy Coding Animation"/>
 
-  <h1 align="center">Hey, I'm Shashank Yaplar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <h1 align="center">Hey, I'm Shashank.g.Yaplar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
   <p><strong>A passionate Java & Flutter Developer 🚀</strong></p>
+  
 
   <!-- Dark Mode Toggle -->
  
@@ -52,7 +53,11 @@
     <a>
       <img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
+    
   </p>
+  <i>"I don’t chase perfection. I chase progress — line by line, file by file.
+                                                  -shashank.g.yaplar
+      "</i><br>
 </div>
 
 <!-- Optional CSS for theme toggle (basic effect) -->
