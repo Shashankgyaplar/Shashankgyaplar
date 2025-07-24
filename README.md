@@ -1,39 +1,81 @@
-<!-- Profile README for SHASHANK.G.YAPLAR -->
+<!-- SHASHANK.G.YAPLAR's GitHub README -->
+
+<h1 align="center">
+  Hi there 👋 I'm SHASHANK.G.YAPLAR
+</h1>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca3e40a203db87b5e9c5d18903.gif" width="300" alt="Coding Boy Animation"/>
+  <img src="https://i.pinimg.com/originals/50/f9/1a/50f91a3ed7c83b409b7602dc8f4f6927.gif" width="300" alt="Boy coding seriously">
 </p>
-
-<h1 align="center">Hi 👋, I'm SHASHANK.G.YAPLAR</h1>
-<h3 align="center">🔥 Passionate Coder | Java Enthusiast | Frontend Explorer | Flutter Learner</h3>
 
 ---
 
 ### 🚀 About Me
-```yaml
-- 🔭 I’m currently working on: Java Projects & Frontend Projects
-- 🌱 Learning: JavaScript, Flutter, SQL
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/SHASHANKGYAPLAR)
-- ⚡ Fun fact: I talk to my code sometimes... and it listens 👨‍💻
+- 🎯 I’m passionate about **Frontend + Backend Development**
+- 💻 I love turning ideas into real-world applications
+- 🎧 Coding while vibing to music is my therapy
+- 🧠 I talk to my code sometimes… and it listens 🧘‍♂️
+- 🌱 Currently sharpening skills in **Flutter**, **Java**, and **JS Projects**
+- ✨ I believe in **progress > perfection**
 
-🛠️ Skills & Tools
-<p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> </p>
+---
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SHASHANKGYAPLAR&show_icons=true&theme=tokyonight" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHASHANKGYAPLAR&layout=compact&theme=tokyonight" height="180"/> </p>
+### 💡 Tech Stack & Tools
 
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SHASHANKGYAPLAR&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4"/> </p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+---
 
-📁 Featured Projects
-<p align="center"> <a href="https://github.com/SHASHANKGYAPLAR/Java-ATM-System"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHASHANKGYAPLAR&repo=Java-ATM-System&theme=tokyonight"/> </a> <a href="https://github.com/SHASHANKGYAPLAR/Counter-App"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHASHANKGYAPLAR&repo=Counter-App&theme=tokyonight"/> </a> </p>
+### 🏆 GitHub Stats
 
-📈 Profile Visits
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SHASHANKGYAPLAR&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SHASHANKGYAPLAR&show_icons=true&theme=tokyonight" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHASHANKGYAPLAR&theme=tokyonight" width="47%"/>
+</p>
 
-🔗 Let's Connect
-<!-- LinkedIn link will be added once you're ready --> <p align="center"> <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/SHASHANKGYAPLAR"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
+---
 
+### 🏅 GitHub Trophies
 
-“I don’t chase perfection. I chase progress — line by line, file by file.” — SHASHANK.G.YAPLAR
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SHASHANKGYAPLAR&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10">
+</p>
+
+---
+
+### 📊 Profile Visits
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SHASHANKGYAPLAR&label=Profile%20Views&color=0e75b6&style=flat" alt="view counter"/>
+</p>
+
+---
+
+### 💼 HackerRank Badge
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-Java%20(3%20Stars)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com)
+
+---
+
+### 🔥 Featured Projects
+
+- [🔐 Java ATM System](https://github.com/SHASHANKGYAPLAR/Java-ATM-System)
+- [💡 Basic JS Calculator](https://github.com/SHASHANKGYAPLAR)
+
+---
+
+### 🌐 Let's Connect
+
+<!-- LinkedIn will be added once you're ready -->
+📧 Mail me at: `your-email@example.com`
+
+---
+
+> _“I don’t chase perfection. I chase progress – line by line, file by file.”_  
+> — **SHASHANK.G.YAPLAR**
