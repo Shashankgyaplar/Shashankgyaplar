@@ -1,3 +1,4 @@
+      ![Uploading main.gif…]()
 <!-- Animated, Single-File GitHub Profile README for Shashank Yaplar -->
 
 <div align="center">
@@ -7,10 +8,7 @@
   <p><strong>A passionate Java & Flutter Developer 🚀</strong></p>
 
   <!-- Dark Mode Toggle -->
-  <label>
-    <input type="checkbox" id="themeToggle"/>
-    <span>Toggle Theme</span>
-  </label>
+ 
 
   <br><br>
 
