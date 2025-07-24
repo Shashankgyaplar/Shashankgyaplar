@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/06/f0/17/06f017378e8b768663e8c6fc9b6aa9f5.gif" width="300" alt="Boy Coding Animation"/>
 
-  <h1 align="center">Hey, I'm Shashank.g.Yaplar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <h1 align="center">Hey, I'm Shashank.G.Yaplar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
   <p><strong>A passionate Java & Flutter Developer 🚀</strong></p>
   
 
