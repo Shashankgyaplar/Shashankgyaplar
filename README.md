@@ -1,17 +1,12 @@
-
 <!-- Animated, Single-File GitHub Profile README for Shashank Yaplar -->
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/06/f0/17/06f017378e8b768663e8c6fc9b6aa9f5.gif" width="300" alt="Boy Coding Animation"/>
 
-  <h1 align="center">Hey, I'm Shashank.G.Yaplar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <h1 align="center">Hey, I'm Shashank G. Yaplar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
   <p><strong>A passionate Java & Flutter Developer 🚀</strong></p>
-  
 
-  <!-- Dark Mode Toggle -->
- 
-
-  <br><br>
+  <br>
 
   <!-- Typing Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Crafting+cool+Java+%26+Flutter+projects!;Leveling+up+skills+every+day!;Open+to+internship+opportunities!"/>
@@ -35,14 +30,18 @@
 
   <!-- 🔥 Current Focus -->
   <h2>🔥 Current Focus</h2>
-  <ul align="left">
-    <li>Polishing real-world <strong>Java projects</strong></li>
-    <li>Building UI-rich <strong>Flutter apps 🚀</strong></li>
-    <li>Exploring <strong>JavaScript DOM</strong> & mini projects</li>
-    <li>Strengthening <strong>DSA & problem-solving skills 💡</strong></li>
-  </ul>
+</div>
 
-  <br>
+<ul>
+  <li>📘 Polishing real-world <strong>Java projects</strong></li>
+  <li>🎯 Building UI-rich <strong>Flutter apps</strong></li>
+  <li>🧩 Exploring <strong>JavaScript DOM</strong> & hands-on mini projects</li>
+  <li>🧠 Strengthening <strong>DSA & problem-solving skills</strong></li>
+</ul>
+
+<br>
+
+<div align="center">
 
   <!-- 📬 Contact -->
   <h2>📬 Contact Me</h2>
@@ -53,12 +52,23 @@
     <a>
       <img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    
   </p>
-  <i>"I don’t chase perfection. I chase progress — line by line, file by file.
-                                                  -shashank.g.yaplar
-      "</i><br>
+
+  <br>
+
+  <!-- ✒️ Personal Quote -->
+  <blockquote>
+    <i>"I don’t chase perfection.<br>
+    I chase progress — line by line, file by file."<br>
+    — Shashank G. Yaplar</i>
+  </blockquote>
+
+  <br>
+
+  <!-- 📊 GitHub Stats (Optional, add if desired) -->
+  <!--
+  <img src="https://github-readme-stats.vercel.app/api?username=ShashankYaplar&show_icons=true&theme=radical" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShashankYaplar&theme=radical" width="47%"/>
+  -->
+
 </div>
-
-<!-- Optional CSS for theme toggle (basic effect) -->
-
