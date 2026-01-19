@@ -94,14 +94,14 @@ I enjoy working across the stack, from <strong>Java-based logic</strong> to
     <a href="mailto:shashank.g.yaplar@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a>
-      <img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <a href="https://www.linkedin.com/in/shashank-g-yaplar/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Shashank%20G.%20Yaplar-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
   </p>
 
   <br>
 
-  <!-- ✒️ FINAL QUOTE (UNCHANGED CORE STYLE) -->
+  <!-- ✒️ FINAL QUOTE -->
   <blockquote>
     <i>
       "I don’t chase perfection.<br>
