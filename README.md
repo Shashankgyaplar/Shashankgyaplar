@@ -1,137 +1,113 @@
-<!-- ⚔️ SYSTEM INITIALIZED | Shashank G. Yaplar -->
-
-<!-- Animated Header -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:2c5364&text=SHASHANK%20G%20YAPLAR&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
-<div align="center">
-
-  <!-- Core Character -->
-
-  <img src="https://i.pinimg.com/originals/06/f0/17/06f017378e8b768663e8c6fc9b6aa9f5.gif" width="300"/>
-
-  <h2>
-    Shadow in Training
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
-  </h2>
-
-  <p><strong>Java Developer · Frontend Engineer · Blockchain Learner · Flutter Dev · UI/UX Designer</strong></p>
-
-  <!-- System Typing -->
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=800&height=120&lines=SYSTEM+ONLINE.;Learning+by+building%2C+not+watching.;Java+%7C+React+%7C+Flutter+%7C+Dart+%7C+Figma+%7C+Solidity.;Design+%2B+Code+%2B+Discipline.;Consistency+is+my+superpower." />
-
-<br><br>
-
-  <!-- Animated Divider -->
-
-  <img src="https://user-images.githubusercontent.com/74038190/212284126-4f2a6b7c-4b51-4e39-8e58-64f6c41bfa4d.gif" width="100%"/>
-
-</div>
-
-<!-- 🧠 PROFILE OVERVIEW -->
-
-<h2>🧠 Profile Overview</h2>
-
-<p>
-I’m a developer who believes growth comes from <strong>building real things</strong>,
-breaking them, and rebuilding them better.  
-I focus on <strong>strong fundamentals</strong>, clean logic, and consistent improvement — one commit at a time.
-</p>
-
-<p>
-I work across <strong>design + development</strong> layers — from <strong>Java-based logic</strong>,
-<strong>React & Flutter frontends</strong>, <strong>Figma design systems</strong>, to
-<strong>blockchain smart contracts</strong>.
-</p>
-
-<!-- Divider -->
-
-<img src="https://user-images.githubusercontent.com/74038190/212284077-6b2b3b7c-7a3a-44b0-9e47-d1e9b9dff2c6.gif" width="100%"/>
-
-<!-- 🚀 TECH STACK -->
-
-<h2>🚀 Tech Stack</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,react,flutter,dart,figma,firebase,solidity,js,html,css,mysql,linux,git,github&theme=dark&perline=7"/>
-</div>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1a2e,50:16213e,100:0f3460&text=Shashank%20G%20Yaplar&fontSize=42&fontColor=e8e8e8&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%80%A2%20UI/UX%20Designer&descSize=16&descAlignY=55&descAlign=50" width="100%"/>
 
 <p align="center">
-  <i>Design. Build. Deploy. Repeat.</i>
+  <a href="https://www.linkedin.com/in/shashank-g-yaplar/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="mailto:shashank.g.yaplar@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>&nbsp;
+  <a href="https://github.com/shashankgyaplar">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
-<!-- Divider -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+full-stack+systems+with+clean+architecture;React+%7C+Java+%7C+Flutter+%7C+Solidity;Design.+Build.+Deploy.+Iterate." alt="Typing SVG" />
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284091-48b33c2f-7b1a-4b3f-b8bb-4c7bb4b66bcb.gif" width="100%"/>
+---
 
-<!-- 🔥 CURRENT FOCUS -->
+### `> whoami`
 
-<h2>🔥 Current Focus</h2>
+Computer Science student (BTech — IoT, Cybersecurity & Blockchain) who learns by building. I work across **design + development** layers — from Java-based systems and React frontends to Figma prototypes and Solidity smart contracts.
 
-<ul>
-  <li>⚔️ Building <strong>Java & full-stack systems</strong> with clean architecture</li>
-  <li>🌐 Creating modern UIs with <strong>React</strong></li>
-  <li>📱 Developing cross-platform apps using <strong>Flutter & Dart</strong></li>
-  <li>🎨 Designing interfaces & systems in <strong>Figma</strong></li>
-  <li>🔐 Using <strong>Firebase</strong> for auth & backend services</li>
-  <li>⛓️ Writing and testing <strong>Solidity smart contracts</strong></li>
-  <li>🧠 Strengthening <strong>DSA & problem-solving</strong> daily</li>
-</ul>
+I thrive in hackathons and ship code that's clean, maintainable, and built to last.
 
-<!-- Divider -->
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284126-4f2a6b7c-4b51-4e39-8e58-64f6c41bfa4d.gif" width="100%"/>
+### `> tech_stack`
 
-<div align="center">
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black" />
+    </td>
+  </tr>
+</table>
 
-  <!-- 🕶️ SYSTEM MESSAGE -->
+---
 
-  <h2>🕶️ System Message</h2>
+### `> featured_projects`
 
-  <blockquote>
-    <i>
-      SYSTEM NOTICE:<br>
-      Growth detected.<br><br>
-      Strength ➜ Cleaner Code<br>
-      Agility ➜ Faster Learning<br>
-      Intelligence ➜ Better Design<br>
-      Vision ➜ Stronger Products
-    </i>
-  </blockquote>
+| Project | Description | Tech |
+|:--------|:------------|:-----|
+| **[KeyGuardian](https://github.com/VincentSamuelPaul/keyguardian)** | AI-powered parental control with real-time monitoring dashboard | `Electron` `React` `Go` `Gemini AI` |
+| **[ShadowBrowse](https://github.com/VincentSamuelPaul/ShadowBrowse)** | Containerized sandbox browser with malware analysis | `Go` `React` `Docker` |
+| **[Voting DApp](https://github.com/shashankgyaplar/Voting_app)** | Decentralized voting on Ethereum with on-chain verification | `Solidity` `Hardhat` `React` `Ethers.js` |
 
-  <br>
+---
 
-  <!-- 📬 CONTACT -->
+### `> achievements`
 
-  <h2>📬 Contact</h2>
+```
+🥇 1st Place  →  CloudSEK Quantum Breach Hackathon
+🥈 2nd Place  →  TechFusion IOTRIX Hackathon
+```
 
-  <p>
-    <a href="mailto:shashank.g.yaplar@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://www.linkedin.com/in/shashank-g-yaplar/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Shashank%20G.%20Yaplar-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://www.figma.com" target="_blank">
-      <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
-    </a>
-  </p>
+---
 
-  <br>
+### `> stats`
 
-  <!-- ✒️ FINAL QUOTE -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shashankgyaplar&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankgyaplar&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" height="170" alt="Top Languages" />
+</p>
 
-  <blockquote>
-    <i>
-      "I don’t chase perfection.<br>
-      I chase progress — line by line, file by file."
-      <br>— Shashank G. Yaplar
-    </i>
-  </blockquote>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashankgyaplar&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Streak Stats" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashankgyaplar&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="95%" alt="Activity Graph" />
+</p>
 
-<!-- Footer -->
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:2c5364,50:203a43,100:0f2027&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f3460,50:16213e,100:1a1a2e&section=footer" width="100%"/>
