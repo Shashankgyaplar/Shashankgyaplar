@@ -1,113 +1,145 @@
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1a2e,50:16213e,100:0f3460&text=Shashank%20G%20Yaplar&fontSize=42&fontColor=e8e8e8&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%80%A2%20UI/UX%20Designer&descSize=16&descAlignY=55&descAlign=50" width="100%"/>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shashank-g-yaplar/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="mailto:shashank.g.yaplar@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>&nbsp;
-  <a href="https://github.com/shashankgyaplar">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=3&section=header" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+full-stack+systems+with+clean+architecture;React+%7C+Java+%7C+Flutter+%7C+Solidity;Design.+Build.+Deploy.+Iterate." alt="Typing SVG" />
-</p>
+<br/>
+<br/>
 
----
+# Shashank G Yaplar
 
-### `> whoami`
+<br/>
 
-Computer Science student (BTech — IoT, Cybersecurity & Blockchain) who learns by building. I work across **design + development** layers — from Java-based systems and React frontends to Figma prototypes and Solidity smart contracts.
+`Full Stack` &nbsp;·&nbsp; `Security` &nbsp;·&nbsp; `Web3` &nbsp;·&nbsp; `Mobile` &nbsp;·&nbsp; `Design`
 
-I thrive in hackathons and ship code that's clean, maintainable, and built to last.
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-g-yaplar/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:shashank.g.yaplar@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/shashankgyaplar)
+
+<br/>
+<br/>
+
+</div>
 
 ---
 
-### `> tech_stack`
+<br/>
 
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black" />
-    </td>
-  </tr>
-</table>
+I'm a BTech student in **IoT, Cybersecurity & Blockchain** who builds across the full stack — from system architecture and secure backend services to polished React frontends, Flutter apps, and Solidity contracts. I design before I code, and I ship things that work.
+
+Hackathons are where I benchmark myself. Clean, maintainable code is the baseline, not the goal.
+
+<br/>
 
 ---
 
-### `> featured_projects`
+<br/>
 
-| Project | Description | Tech |
-|:--------|:------------|:-----|
-| **[KeyGuardian](https://github.com/VincentSamuelPaul/keyguardian)** | AI-powered parental control with real-time monitoring dashboard | `Electron` `React` `Go` `Gemini AI` |
-| **[ShadowBrowse](https://github.com/VincentSamuelPaul/ShadowBrowse)** | Containerized sandbox browser with malware analysis | `Go` `React` `Docker` |
-| **[Voting DApp](https://github.com/shashankgyaplar/Voting_app)** | Decentralized voting on Ethereum with on-chain verification | `Solidity` `Hardhat` `React` `Ethers.js` |
+## Work
 
----
+<br/>
 
-### `> achievements`
+**[KeyGuardian](https://github.com/VincentSamuelPaul/keyguardian)** &nbsp;—&nbsp; AI-Powered Parental Control
+> Real-time keystroke monitoring with a Gemini AI threat-detection layer and a React dashboard. Built with Electron + Go — cross-platform, fast, and actually useful.
+>
+> `Electron` &nbsp; `React` &nbsp; `Go` &nbsp; `Gemini AI`
 
-```
-🥇 1st Place  →  CloudSEK Quantum Breach Hackathon
-🥈 2nd Place  →  TechFusion IOTRIX Hackathon
-```
+<br/>
 
----
+**[ShadowBrowse](https://github.com/VincentSamuelPaul/ShadowBrowse)** &nbsp;—&nbsp; Sandbox Browser
+> Every session isolated in Docker. Malicious behavior intercepted and analyzed before it ever reaches the host. Security-first, from the ground up.
+>
+> `Go` &nbsp; `React` &nbsp; `Docker`
 
-### `> stats`
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashankgyaplar&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankgyaplar&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" height="170" alt="Top Languages" />
-</p>
+**[Voting DApp](https://github.com/shashankgyaplar/Voting_app)** &nbsp;—&nbsp; Decentralized Voting on Ethereum
+> No central authority. No manipulation possible. Every vote a signed transaction, every result permanently on-chain.
+>
+> `Solidity` &nbsp; `Hardhat` &nbsp; `React` &nbsp; `Ethers.js`
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashankgyaplar&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashankgyaplar&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="95%" alt="Activity Graph" />
-</p>
+<br/>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f3460,50:16213e,100:1a1a2e&section=footer" width="100%"/>
+<br/>
+
+## Stack
+
+<br/>
+
+**Languages** &nbsp;&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+**Frontend** &nbsp;&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white)
+
+**Backend** &nbsp;&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=node.js&logoColor=3C873A)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-1C1C1C?style=flat-square&logo=firebase&logoColor=FFCA28)
+![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=flat-square&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=4169E1)
+
+**Tools** &nbsp;&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-2b2b2b?style=flat-square&logo=ethereum&logoColor=FFF100)
+
+<br/>
+
+---
+
+<br/>
+
+## Recognition
+
+<br/>
+
+🥇 &nbsp; **1st Place** &nbsp;—&nbsp; CloudSEK Quantum Breach Hackathon &nbsp;·&nbsp; *Cybersecurity*
+
+🥈 &nbsp; **2nd Place** &nbsp;—&nbsp; TechFusion IOTRIX Hackathon &nbsp;·&nbsp; *IoT & Embedded Systems*
+
+<br/>
+
+---
+
+<br/>
+
+## Currently
+
+<br/>
+
+Exploring **ZK proofs**, **Edge AI**, and **distributed systems** &nbsp;·&nbsp; Open to **internships** and **collaborations**
+
+<br/>
+
+> *I care about the craft. Every project is an opportunity to build something worth using.*
+
+<br/>
+
+---
+
+<div align="center">
+
+<br/>
+
+**shashank.g.yaplar@gmail.com**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1a1a1a,100:000000&section=footer" width="100%"/>
+
+</div>
