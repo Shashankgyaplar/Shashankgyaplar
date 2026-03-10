@@ -121,8 +121,7 @@ Hackathons are where I benchmark myself. Clean, maintainable code is the baselin
 ## Currently
 
 <br/>
-
-Exploring **ZK proofs**, **Edge AI**, and **distributed systems** &nbsp;·&nbsp; Open to **internships** and **collaborations**
+ Open to **internships** and **collaborations**
 
 <br/>
 
